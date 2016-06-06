@@ -1,0 +1,118 @@
+body {
+  color: #222222;
+  font-size: 1em;
+  font-family: "Open Sans", "Gentium Book Basic", sans-serif;
+}
+
+header {
+  background-size: cover;
+  background-image: url(https://pixabay.com/static/uploads/photo/2016/02/27/18/05/forest-1225983_960_720.jpg);
+  text-align: center;
+  padding-top: 6%;
+  padding-bottom: 4.5%;
+}
+
+h1 {
+  font-size: 2.2em;
+  color: #333333;
+  display: block;
+  max-width: 100%;
+  padding: 0% .5% 0% .5%;
+}
+
+p {
+  font-family: gentium book basic;
+  text-align: justify;
+  font-size: 1.2em;
+  max-width: 90%;
+  text-indent: 4%;
+  line-height: 1.5em;
+	padding: 20px;
+  padding-left: 18px;
+  margin-top: 0;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.simplify {
+  list-style-type: none;
+}
+
+.spacing {
+  margin-top:100px;
+}
+
+#first-letter {
+  font-size: 1.5em;
+  color: #333333;
+}
+
+#intro_header {
+  font-size: 4em; 
+}
+
+a {
+  display: inline;
+  text-decoration: none;
+  padding: 6px 0;
+}
+
+ .container {
+ 	border: 1px solid #F25C2A;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	vertical-align: center;
+	cursor: pointer; 
+ }
+
+i {
+  	width: 2.5rem;
+}
+
+ .container:hover {
+ 	 	border: 1px solid #F25C2A;
+	width: 2.5rem;
+	height: 2.5rem;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	vertical-align: center;
+	cursor: pointer;
+	opacity: .4;
+ }
+
+ul {
+  list-style: none;
+  display: block;
+}
+
+#center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  border-top: solid 2px #333333;
+  width: 80%;
+  margin: 0% auto 5% auto;
+}
+
+#footer-text { 
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.social > li {
+  display: inline-block;
+  max-width: 100%;
+  margin: 0% auto -1.5% auto;
+  padding: 0% 2% 0% 2%;
+  font-size: 1.3em;
+}
