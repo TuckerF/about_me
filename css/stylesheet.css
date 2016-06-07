@@ -109,6 +109,9 @@ footer {
   #intro-header; {
     font-size: 3em;
   }
+  p {
+    font-size: 2em;
+  }
 }
 
 i {
